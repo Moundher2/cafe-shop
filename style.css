@@ -124,10 +124,7 @@ button:hover {
 
 /* Mobile Styles */
 @media (max-width: 700px) {
-
-    body{
-      position: fixed;
-    }
+  
     .header {
       margin: 0;
       padding: 10px;
